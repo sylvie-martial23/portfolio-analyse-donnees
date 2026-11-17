@@ -1,3 +1,39 @@
+## Projet 1 – Analyse commerciale de Nova Distribution
+
+### Présentation du projet
+Ce projet consiste à analyser les données commerciales d'une entreprise fictive de distribution de matériel informatique afin d'évaluer ses performances commerciales et financières.
+
+### Objectifs
+- Analyser le chiffre d'affaires et les marges.
+- Identifier les produits les plus performants.
+- Étudier les performances géographiques.
+- Évaluer les performances des commerciaux.
+- Formuler des recommandations à partir des données.
+
+### Premiers résultats
+
+**Analyse des produits**
+- Le Serveur entrée de gamme génère le chiffre d'affaires livré et la marge brute livrée les plus élevés.
+- Le Câble HDMI possède le taux de marge moyen le plus élevé.
+
+**Analyse géographique**
+- Dapaong est la ville qui génère le chiffre d'affaires livré le plus élevé.
+- La région des Plateaux arrive en tête pour le chiffre d'affaires et la marge brute livrés.
+- Elle représente 27,48 % du chiffre d'affaires livré total.
+
+**Analyse des commerciaux**
+- Mme Essi M. arrive en tête pour le chiffre d'affaires et la marge brute livrés.
+- M. Kossi A. possède le taux de marge moyen le plus élevé.
+- Mme Essi M. représente 15,29 % du chiffre d'affaires livré total.
+
+### Outils utilisés
+- Microsoft Excel
+- Tableaux croisés dynamiques
+- Fonctions Excel
+- Analyse descriptive des données
+
+### Statut
+Projet en cours de réalisation. Les analyses seront complétées par un tableau de bord interactif et des recommandations commerciales.
 
 # Portfolio en analyse de données
 
